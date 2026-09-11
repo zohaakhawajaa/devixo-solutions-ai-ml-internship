@@ -2,6 +2,10 @@
 
 Projects and tasks completed during the Devixo Solutions AI/ML Internship Program.
 
+Python data analysis and visualization of video game sales using Pandas, NumPy,
+Matplotlib, and Seaborn. Includes data cleaning, EDA, statistical analysis,
+visualizations, and insights.
+
 ## Tasks
 
 | Task | Project | Link |

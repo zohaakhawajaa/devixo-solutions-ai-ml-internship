@@ -1,0 +1,19 @@
+# Large source dataset; keep it local and out of regular Git history.
+/vehicles.csv
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Notebook/editor/runtime files
+.ipynb_checkpoints/
+.vscode/
+.streamlit/secrets.toml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
